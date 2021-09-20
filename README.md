@@ -5,7 +5,7 @@
 
 - 👩‍💻 I’m looking to collaborate on **cool frontend projects.**
 
-- 💬 I talk: **HTML | CSS | JS | SASS | Bootstrap | REACT |Node.js**
+- 💬 I talk: **HTML | CSS | JS | SCSS | Bootstrap | REACT |Node.js**
 
 - ⚡ Fun fact: **when I visit someones home, I'm more interested in their plants than their interior🪴**
 
